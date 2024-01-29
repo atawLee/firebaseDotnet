@@ -1,13 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "exerciseapp-afaae",
-  "private_key_id": "9d5a0693fdb526254025eb59a29b58682726332c",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDE68dhDICv6Fpg\ntM6omQWttTqh48HLYXRadunCR199Y2lrOdF180kaTd0ZOQ6se36KaRYJaCDTWw6r\nWjxXfzI7QDlVYwdnCwv0toZZpDOJMJR8RFGia7hE1MAiYHuABEgG2H1wPCSzLmAq\nr0wFI79ZByT9CRZGJaMBH7up1DoRi+AWTDYULIVDHv6NFhwTbdaho7nR9nUOrENh\nXyQCYPPyUM04572ntVFnnC9iDs3DBkVkGGI3Fa4wsRkk15nxdpHPBd/bM8XLc9In\niAr83eoXFA2FG08Bjy8BqPBydffocE87PJeBICiP1wA4u0pyGwdiB1iFI/RoVdS+\n04a4ACPHAgMBAAECggEAE5Z8e6vZtSXAr7PshprKFNBdJ7NXGJr2DvWbJQcieX+F\nAfR7YGc101cBcjvZuNCD8tKnLYJdGYkKOYM9U1rErV4jFdpG5zoTE2GAlbQeqDvb\n2UyWbjiW2Mns3r6IKmDCpWOtfpeM8wHe8QAE6NH4e6uZQ04/F/UwdLEqYqdIq2v4\nkltm137pq0lQSYaCT5Pa+XTVg2ePKQbKGNrJBG1sQXJEYSbSY+K4GNEM/84uKaLr\nfVVu2PUMu74aLAzBlwtnlmlY4RM7TkXOsJFWujJ0mLMDUypuYswmVyzhsO1PwaOt\n62q6Ke/o9nW/bB740UMbLz/hrFUKT4m9YfH28U6/4QKBgQD5J2VCxvbFj03FNTsD\n3HZpm9FhXaJQkPJxChmEFrU+PEjRD978eiBfHYBYn6+lEBo6/3vZFf8Zw94lT4sj\nsbWyXIRXvpUYbeaYrFuyjE7wvC730j+YOAc17HOocAIFMcTDz5yGQwsXhZk0+84s\nvuzhOyPDR+9CEoDFrniKbCF29wKBgQDKVPcpOR0KqSL2FI4r4q/axQiyN0Lhg1fq\nx9z5wvhMZP88EztGChPeAVYBNzFA+ZCxrCoEiftgwRBzzr5RvGVjestjBkVc160n\nAnTnjqHK2n90GKe9BavmQoRMI/Mx3IJUH+1JzeKv81G1VKE1uU8yWdHB63US6pWa\nF2kMbPJ1sQKBgF7ZbYYnYkhBTrT1l7rXkciQhfwP/ju3gmQgGSic0HCZ2IqmBRiO\nkYZEH9kdKWuoHqQ5IHe7FPtFAmunxWtYOrhk2gjhR7ceF3wlmV72ZRLmQOcdBhK3\nuZ8AneMQiORbVvHINmkyWqWguXtfJNUJ9fmkXu/3kZDQpG8dBUyE75RvAoGBALGS\nYhy2uEs756gKoD/ZwjaBCEHIiBT9PbKa19AHkf0SAoMJ6dJtU8Rabc3BT6PTo26b\nR4EWTB09M6A/iP6ZFm55PXjZ7xQtYRTEbi8vGcW7f3I3lTcqfBQouo1MW8qd2W/V\nWV6Vp+Z96G75KEbLLLtm4tWLPQNuB//lndc+4ofxAoGBAOXZKUdI6jr+RMRAeEi8\nG92lmET/1AqBoFDTeoFeqNA/UUbomBPdHTTxN+LMc2TasiLR+j9N6ZPG3WRvLNa7\now+Aa4aujmrZW87RlNQjy+sqCxNf7TufS9oPWGEYscCjSfAytyA9/SSSiqxQtLn1\nt7IYR8H33YFWi3eJlj4h0lSc\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-bclsv@exerciseapp-afaae.iam.gserviceaccount.com",
-  "client_id": "114426798624835832713",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-bclsv%40exerciseapp-afaae.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  //firebase 프로젝트 설정- 서비스계정- 새비공개키생성으로 json 받아서 여기에 넣기 
 }
